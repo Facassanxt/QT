@@ -1,0 +1,13 @@
+release/main.o
+release/mainwindow.o
+release/admin.o
+release/worker.o
+release/addperson.o
+release/deleteperson.o
+release/editperson.o
+release/moc_mainwindow.o
+release/moc_admin.o
+release/moc_worker.o
+release/moc_addperson.o
+release/moc_deleteperson.o
+release/moc_editperson.o

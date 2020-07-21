@@ -1,0 +1,13 @@
+debug/main.o
+debug/mainwindow.o
+debug/admin.o
+debug/worker.o
+debug/addperson.o
+debug/deleteperson.o
+debug/editperson.o
+debug/moc_mainwindow.o
+debug/moc_admin.o
+debug/moc_worker.o
+debug/moc_addperson.o
+debug/moc_deleteperson.o
+debug/moc_editperson.o
