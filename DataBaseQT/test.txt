@@ -1,0 +1,6 @@
+
+79169257152:Timur:2001:Address
+79164008656:Roma:2000:Polevaya
+79164569774:Alex:2000:Chogonovo
+79165219932:Vasiliy:2001:Moscow
+79168006008:Mom:2000:Polevaya
