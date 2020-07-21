@@ -1,0 +1,9 @@
+{
+	"login": "admin", "password": "123", "status": "admin";
+}
+{
+	"login": "user", "password": "123", "status": "user";
+}
+{
+	"login": "manager", "password": "123", "status": "manager";
+}
